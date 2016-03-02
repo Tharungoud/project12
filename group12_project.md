@@ -1,4 +1,4 @@
-Analysis on IRS data and relations between AGI and Mortgages
+﻿Analysis on IRS data and relations between AGI and Mortgages
 
 =============
 
@@ -82,7 +82,7 @@ Soon, we will build our initial coding and post the code in our GitHub repositor
 
 
 
-We are team of Six, Srikanth Budi, Venkateswara R Kotha, Sai Bharadwaja Uppala, Sundeep Vuyyuru, Keshava Paruchuri, Tarun Madugoni, we will be sharing our work amoung ourselves. Srikanth & Venkateswara will be taking care of development, data analysis , Back end work consisted of an API that was created to provide data to the front end. And Writing O Auth script to pull linked in Connections and Bharadwaja, Sundeep, Tarun and Keshava would work on data set, data analysis and UI development and together we are collaborating to check the progress of the project testing. 
+We are team of Six, Srikanth Budi, Venkateswara R Kotha, Sai Bharadwaja Uppala, Sundeep Vuyyuru, Keshava Paruchuri, Tharun Madagouni, we will be sharing our work amoung ourselves. Srikanth & Venkateswara will be taking care of development, data analysis , Back end work consisted of an API that was created to provide data to the front end. And Writing O Auth script to pull linked in Connections and Bharadwaja, Sundeep, Tarun and Keshava would work on data set, data analysis and UI development and together we are collaborating to check the progress of the project testing. 
 
 
 
@@ -103,7 +103,7 @@ We are team of Six, Srikanth Budi, Venkateswara R Kotha, Sai Bharadwaja Uppala, 
 | Sai Bharadwaja Uppala | Data Analysis, Python | Development, Data Analysis, Python |
 | Sundeep Vuyyuru | Data Analysis, Python | Development, Data Analysis, Python |
 | Kesava Parchuri | Testing, Data analysis | Data Analysis, Test Harness; |
-| Tarun Goud Madugoni | Testing, Data analysis | Data Analysis, Test Harness; |
+| Tharun Goud Madagouni | Testing, Data analysis | Data Analysis, Test Harness; |
 
 ## DELIVERABLES AND CHECKPOINTS
 
