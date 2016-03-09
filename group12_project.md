@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Analysis on IRS data and relations between AGI and Mortgages
+=======
+﻿# Analysis on IRS data and relations between AGI and Mortgages
+>>>>>>> origin/master
 
 =============
 
