@@ -116,9 +116,7 @@ We are team of Six, Srikanth Budi, Venkateswara R Kotha, Sai Bharadwaja Uppala, 
 | Checkpoint date | Expected Deliverable                                                          | Responsible team member(s) | Checkpoint results                                                                                                                  |
 |---------------|-------------------------------------------------------------------------------|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 |2/12/16| Initial analysis on IRS data and relations between AGI and Mortgages.  | All team Members   | Check point 1 reached . |
-|3/8/16|  Collected multiple years data from IRS i.e from 2001. We cannot upload all data as file sizes are more than 100MB which cannot be stored in Github  , we would like to upload it google drive . So we need to write a script to pull the data online.
-and in process of aggregating the data and remove unwanted columns and just focus on returns. And would like to see at ways to develop visualization from the data.
-| All team Members |   |
+|3/8/16|  Collected multiple years data from IRS i.e from 2001. We cannot upload all data as file sizes are more than 100MB which cannot be stored in Github  ,we would like to upload it google drive . So we need to write a script to pull the data online.and in process of aggregating the data and remove unwanted columns and just focus on returns. And would like to see at ways to develop visualization from the data.| All team Members |   |
 
 
 
